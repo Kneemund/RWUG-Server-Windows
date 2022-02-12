@@ -18,5 +18,16 @@
     <ClCompile Include="RWUG-Server-Windows.cpp">
       <Filter>Quelldateien</Filter>
     </ClCompile>
+    <ClCompile Include="socket.cpp">
+      <Filter>Quelldateien</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="socket.h">
+      <Filter>Headerdateien</Filter>
+    </ClInclude>
+    <ClInclude Include="gamepad.h">
+      <Filter>Headerdateien</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
